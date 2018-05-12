@@ -1,0 +1,30 @@
+_repo: Through-Apache-Land_31421
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31421-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apache Indians -- Fiction'
+- !lcc 'PZ'
+title: Through Apache Land
+url: http://www.gutenberg.org/ebooks/31421
